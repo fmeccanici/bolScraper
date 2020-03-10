@@ -259,3 +259,1469 @@ IPDL protocol error: Handler returned error code!
 
 JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
 1583785441394	Marionette	INFO	Stopped listening on port 44549
+1583867991832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemREvFj"
+1583867992911	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583867996510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583867996510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583867996510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583867996511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583867999664	Marionette	INFO	Listening on port 39275
+1583867999683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.b4a44790a95623454d59.bundle.js, line 2: ReferenceError: response is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1583868040235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileccRhtd"
+1583868041362	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583868043819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583868043819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583868043819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583868043819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583868046333	Marionette	INFO	Listening on port 46735
+1583868046351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583868049446	Marionette	INFO	Stopped listening on port 39275
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: ReferenceError: response is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: SecurityError: Permission denied to access property "requestIdleCallback" on cross-origin object
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: "getUsedFontFaces@resource://devtools/server/actors/styles.js:384:24\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Could not get the list of font families" (new Error("Protocol error (unknownError): node is null", "resource://devtools/shared/protocol/Front.js", 276))
+JavaScript error: resource://devtools/server/actors/highlighters.js, line 768: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.isDeadWrapper]
+JavaScript error: resource://devtools/server/actors/highlighters/utils/markup.js, line 263: TypeError: this.highlighterEnv is null
+1583868174883	Marionette	INFO	Stopped listening on port 46735
+1583868451664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefUbHk3"
+1583868452386	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583868454268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583868454268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583868454268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583868454268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583868456436	Marionette	INFO	Listening on port 41095
+1583868456478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/account/login.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/account/login.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1583868480062	Marionette	INFO	Stopped listening on port 41095
+1583868480352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA631O1"
+1583868481121	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583868483001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583868483001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583868483001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583868483001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583868485151	Marionette	INFO	Listening on port 42279
+1583868485174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583868512498	Marionette	INFO	Stopped listening on port 42279
+1583868555281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecDrIfU"
+1583868555973	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583868557921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583868557921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583868557921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583868557922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583868560475	Marionette	INFO	Listening on port 34055
+1583868560500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583868596229	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegGzuuo"
+1583868597013	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1583868598938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583868598938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583868598939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583868598939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583868601507	Marionette	INFO	Listening on port 34687
+1583868601551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+1583868610887	Marionette	INFO	Stopped listening on port 34055
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583868634059	Marionette	INFO	Stopped listening on port 34687
+1583868760971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGXm1xq"
+1583868761849	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583868763756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583868763756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583868763756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583868763756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583868765864	Marionette	INFO	Listening on port 42495
+1583868765886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1583868796999	Marionette	INFO	Stopped listening on port 42495
+1583868860814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileol514j"
+1583868861582	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583868863594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583868863594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583868863594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583868863594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583868865706	Marionette	INFO	Listening on port 34943
+1583868865730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: NS_ERROR_NOT_INITIALIZED: 
+1583868892165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQuXbI3"
+1583868892906	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583868894807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583868894807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583868894808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583868894808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583868897538	Marionette	INFO	Listening on port 34379
+1583868897580	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+1583868910728	Marionette	INFO	Stopped listening on port 34943
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1583868929080	Marionette	INFO	Stopped listening on port 34379
+1583868950433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTeHWtU"
+1583868951238	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583868953021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583868953021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583868953022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583868953022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583868955439	Marionette	INFO	Listening on port 45589
+1583868955447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1583868993849	Marionette	INFO	Stopped listening on port 45589
+1583869005143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK8Wcb9"
+1583869005872	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583869007627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583869007628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583869007628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583869007628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583869010533	Marionette	INFO	Listening on port 45347
+1583869010560	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: ReferenceError: response is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/modules/UpdateTimerManager.jsm, line 352: TypeError: setting getter-only property "gLogEnabled"
+JavaScript error: resource://gre/modules/ModulesPing.jsm, line 70: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]'[JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]' when calling method: [nsIUpdateTimerManager::registerTimer]
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1583869068277	Marionette	INFO	Stopped listening on port 45347
+1583869070915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJkhKjW"
+1583869071692	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583869073514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583869073514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583869073514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583869073514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583869075944	Marionette	INFO	Listening on port 34329
+1583869076027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1583869098555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2D4P7F"
+1583869099473	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583869102208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583869102208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583869102208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583869102208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583869104863	Marionette	INFO	Listening on port 36459
+1583869104877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583869110848	Marionette	INFO	Stopped listening on port 34329
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5162: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1583869128991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec3jSQZ"
+1583869129749	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583869132104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583869132104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583869132105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583869132105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583869134787	Marionette	INFO	Listening on port 39025
+1583869134808	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583869138755	Marionette	INFO	Stopped listening on port 36459
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: TypeError: (intermediate value).data.alerts is undefined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 117: TypeError: n is not a function
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 3047: ReferenceError: WSP is not defined
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2243))
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: SecurityError: Permission denied to access property "chrome" on cross-origin object
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1583869264143	Marionette	INFO	Stopped listening on port 39025
+1583869265218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJxSCyn"
+1583869265975	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583869267926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583869267926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583869267926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583869267927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583869270358	Marionette	INFO	Listening on port 42661
+1583869270432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: ReferenceError: response is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583869309985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerQPi05"
+1583869310743	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583869313116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583869313116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583869313116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583869313117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583869315849	Marionette	INFO	Listening on port 43143
+1583869315900	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583869319624	Marionette	INFO	Stopped listening on port 42661
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: TypeError: (intermediate value).data.alerts is undefined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583869377683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIZIFfH"
+1583869378496	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583869380398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583869380398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583869380398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583869380398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583869382923	Marionette	INFO	Listening on port 37089
+1583869382996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: TypeError: (intermediate value).data.alerts is undefined
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: TypeError: (intermediate value).data.alerts is undefined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: NS_ERROR_NOT_INITIALIZED: 
+1583869407596	Marionette	INFO	Stopped listening on port 37089
+1583869419395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet0ERvd"
+1583869420166	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583869422056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583869422056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583869422057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583869422057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583869424547	Marionette	INFO	Listening on port 37421
+1583869424610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/px.8b6788e7bb1dbaf85202.bundle.js, line 1: SecurityError: Permission denied to access property "BOOMR_lstart" on cross-origin object
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: TypeError: (intermediate value).data.alerts is undefined
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: TypeError: (intermediate value).data.alerts is undefined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583869454204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekqSmyi"
+1583869455409	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583869457794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583869457794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583869457795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583869457795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583869460291	Marionette	INFO	Stopped listening on port 37421
+1583869460918	Marionette	INFO	Listening on port 36857
+1583869461021	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/account/login.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1583869495256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCBgenI"
+1583869496488	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583869498686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583869498686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583869498687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583869498687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583869501250	Marionette	INFO	Listening on port 34441
+1583869501270	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583869502285	Marionette	INFO	Stopped listening on port 36857
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: ReferenceError: response is not defined
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: ReferenceError: response is not defined
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+1583869705091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemv7naA"
+1583869705879	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583869707730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583869707730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583869707731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583869707731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583869710165	Marionette	INFO	Listening on port 37911
+1583869710208	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: TypeError: (intermediate value).data.alerts is undefined
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: TypeError: (intermediate value).data.alerts is undefined
+1583869918719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek2JI94"
+1583869921181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIFbejT"
+1583869922690	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583869924613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583869924613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583869924614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583869924614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583869927944	Marionette	INFO	Listening on port 45793
+1583869927999	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 144: Error: Unknown callback
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 94: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1583869933435	Marionette	INFO	Stopped listening on port 45793
+1583870032599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerF55NC"
+1583870033368	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583870035339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583870035339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583870035340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583870035340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583870037552	Marionette	INFO	Listening on port 43003
+1583870037613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/account/login.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: NS_ERROR_NOT_INITIALIZED: 
+1583870064463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile046bja"
+1583870065189	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583870067624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583870067624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583870067624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583870067624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583870070196	Marionette	INFO	Listening on port 34485
+1583870070278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583870071828	Marionette	INFO	Stopped listening on port 43003
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/account/login.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/account/login.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1583870089781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFDtg5U"
+1583870090660	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583870092991	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583870092991	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583870092991	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583870092991	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583870095558	Marionette	INFO	Listening on port 41243
+1583870095595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583870097406	Marionette	INFO	Stopped listening on port 34485
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1583870121213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQiVGXr"
+1583870122147	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583870124830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583870124831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583870124831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583870124831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583870127865	Marionette	INFO	Listening on port 35141
+1583870127929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583870131774	Marionette	INFO	Stopped listening on port 41243
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: TypeError: (intermediate value).data.alerts is undefined
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: TypeError: (intermediate value).data.alerts is undefined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583870181475	Marionette	INFO	Stopped listening on port 35141
+1583870194343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUbQWLK"
+1583870195051	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583870196943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583870196943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583870196943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583870196943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583870199307	Marionette	INFO	Listening on port 39729
+1583870199356	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583870342041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejDnQL4"
+1583870342803	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583870344640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583870344641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583870344641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583870344641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583870347027	Marionette	INFO	Listening on port 36705
+1583870347056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583870387351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileacny4m"
+1583870388067	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583870389986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583870389987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583870389987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583870389987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583870392508	Marionette	INFO	Listening on port 42883
+1583870392567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1583870479819	Marionette	INFO	Stopped listening on port 36705
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/1-mM_cAYkiT.js?_nc_x=Ij3Wp8lg5Kz, line 76: Error: Script terminated by timeout at:
+a@https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/1-mM_cAYkiT.js?_nc_x=Ij3Wp8lg5Kz:76:110
+y@https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/corR8W5nsEM.js?_nc_x=Ij3Wp8lg5Kz:29:11978
+x@https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/corR8W5nsEM.js?_nc_x=Ij3Wp8lg5Kz:29:11623
+j.prototype.go@https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/corR8W5nsEM.js?_nc_x=Ij3Wp8lg5Kz:29:5610
+n@https://static.xx.fbcdn.net/rsrc.php/v3/yF/r/M5pqChwjkpJ.js?_nc_x=Ij3Wp8lg5Kz:4:706
+m@https://static.xx.fbcdn.net/rsrc.php/v3/yF/r/M5pqChwjkpJ.js?_nc_x=Ij3Wp8lg5Kz:4:425
+e@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/OwR1ecmnFB_.js?_nc_x=Ij3Wp8lg5Kz:332:311
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/OwR1ecmnFB_.js?_nc_x=Ij3Wp8lg5Kz:79:549
+d@https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/OwR1ecmnFB_.js?_nc_x=Ij3Wp8lg5Kz:308:2841
+
+1583870787618	Marionette	INFO	Stopped listening on port 42883
+1583870798514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezUyAWT"
+1583870799237	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583870801200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583870801200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583870801201	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583870801201	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583870803817	Marionette	INFO	Listening on port 44847
+1583870803839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583870832131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKjVw65"
+1583870833030	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583870835015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583870835015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583870835015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583870835015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583870837717	Marionette	INFO	Listening on port 40475
+1583870837745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583870861120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile643Jmj"
+1583870861900	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583870863790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583870863790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583870863790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583870863790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583870866039	Marionette	INFO	Listening on port 37973
+1583870866134	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/s/?searchtext=&searchContext=media_all&appliedSearchContextId=&suggestFragment=&adjustedSection=&originalSection=&originalSearchContext=&section=main&N=0&defaultSearchContext=media_all, line 117: TypeError: n is not a function
+JavaScript error: https://www.bol.com/nl/s/?searchtext=&searchContext=media_all&appliedSearchContextId=&suggestFragment=&adjustedSection=&originalSection=&originalSearchContext=&section=main&N=0&defaultSearchContext=media_all, line 10650: ReferenceError: WSP is not defined
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: ReferenceError: response is not defined
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: ReferenceError: response is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583870880069	Marionette	INFO	Stopped listening on port 40475
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1583870896579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU6fvmQ"
+1583870897505	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583870900300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583870900300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583870900301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583870900301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583870902289	Marionette	INFO	Stopped listening on port 37973
+1583870903096	Marionette	INFO	Listening on port 45757
+1583870903197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/account/login.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/account/login.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/account/login.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/s/?searchtext=&searchContext=media_all&appliedSearchContextId=&suggestFragment=&adjustedSection=&originalSection=&originalSearchContext=&section=main&N=0&defaultSearchContext=media_all, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/s/?searchtext=&searchContext=media_all&appliedSearchContextId=&suggestFragment=&adjustedSection=&originalSection=&originalSearchContext=&section=main&N=0&defaultSearchContext=media_all, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/s/?searchtext=&searchContext=media_all&appliedSearchContextId=&suggestFragment=&adjustedSection=&originalSection=&originalSearchContext=&section=main&N=0&defaultSearchContext=media_all, line 109: Error: 
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: ReferenceError: response is not defined
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/wsp-elements.887007f1a0b9c49dc6f8.bundle.js, line 2: ReferenceError: response is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583870968808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWgUpfJ"
+1583870969548	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1583870970768	Marionette	INFO	Stopped listening on port 45757
+1583870971995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583870971995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583870971995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583870971995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583870974439	Marionette	INFO	Listening on port 39781
+1583870974522	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+1583871368619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIOiXyP"
+1583871369341	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583871371190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583871371190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583871371190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583871371190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1583871373685	Marionette	INFO	Stopped listening on port 39781
+1583871374254	Marionette	INFO	Listening on port 36509
+1583871374334	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/account/login.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583871393346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekxDaHy"
+1583871394480	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583871397260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583871397260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583871397261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583871397261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583871399698	Marionette	INFO	Listening on port 42191
+1583871399762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583871401907	Marionette	INFO	Stopped listening on port 36509
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/account/login.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/account/login.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/account/login.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1583871486117	Marionette	INFO	Stopped listening on port 42191
+1583871507431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSDhQdr"
+1583871508124	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583871510116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583871510116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583871510116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583871510117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583871512413	Marionette	INFO	Listening on port 35609
+1583871512451	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583871525596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileImIjK2"
+1583871526328	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583871528300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583871528301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583871528301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583871528301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583871530536	Marionette	INFO	Listening on port 46441
+1583871530609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/account/login.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/account/login.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583871542626	Marionette	INFO	Stopped listening on port 35609
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583871605993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefkkKSa"
+1583871606797	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583871608635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583871608635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583871608636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583871608636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583871610889	Marionette	INFO	Listening on port 42481
+1583871610907	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1583871614945	Marionette	INFO	Stopped listening on port 46441
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://c.go-mpulse.net/boomerang/U6CQQ-EHDKM-7D3EX-GAL5G-T4UWT, line 11: SecurityError: Permission denied to access property "BOOMR_configt" on cross-origin object
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583871644687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCDflng"
+1583871645431	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583871647324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583871647324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583871647324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583871647325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583871649708	Marionette	INFO	Listening on port 45545
+1583871649805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/account/login.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/account/login.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/account/login.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://js.s-bol.com/nl/static/assets/js/dmp-gpt-loaders.c4ca78a837e31579d92e.bundle.js, line 1: TypeError: e is undefined
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/order/basket.html, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1583871744209	Marionette	INFO	Stopped listening on port 45545
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1583871745729	Marionette	INFO	Stopped listening on port 42481
+1583871775348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9fU0e2"
+1583871776081	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583871778043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583871778043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583871778044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583871778044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583871780232	Marionette	INFO	Listening on port 34393
+1583871780266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1583871785346	Marionette	INFO	Stopped listening on port 34393
+1583871863715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1uooKm"
+1583871864458	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583871866370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583871866370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583871866370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583871866370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583871868652	Marionette	INFO	Listening on port 40725
+1583871868727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+1583871889209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGlngV7"
+1583871889954	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1583871891785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583871891785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583871891785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583871891786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583871894764	Marionette	INFO	Listening on port 38397
+1583871894822	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583871904337	Marionette	INFO	Stopped listening on port 40725
+1583871987614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5AsBUj"
+1583871988365	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583871990156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583871990156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583871990156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583871990156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583871992647	Marionette	INFO	Listening on port 33587
+1583871992730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/rnwy/account/overzicht, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1583872180447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZdMRQM"
+1583872181152	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583872183093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583872183093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583872183094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583872183094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583872185414	Marionette	INFO	Listening on port 40085
+1583872185459	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1583872187630	Marionette	INFO	Stopped listening on port 33587
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: https://www.bol.com/nl/m/cookies/, line 109: Error: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
